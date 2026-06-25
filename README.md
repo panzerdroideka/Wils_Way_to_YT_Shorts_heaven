@@ -16,7 +16,7 @@ Mange innholdsskapere kaster bort timer på å kjempe mot ustabile terminal-skri
 
 #### 2. Kirurgisk utvelgelse (LosslessCut / LosslessFfmpeg)
 * **Verktøy:** LosslessCut.
-* **Prosess:** Ta den fulle fullversjonsfilen av oppdraget ditt etter opplasting, og skip den rett inn i LosslessCut for å klippe ut nøyaktig de mest verdtøysfylte høydepunktene. Sørg for at klippet samples og merges til rett under 60 sekunder (f.eks. 59 sekunder).
+* **Prosess:** Ta den fulle fullversjonsfilen av oppdraget ditt etter opplasting, og skip den rett inn i LosslessCut for å klippe ut nøyaktig de mest verdtøysfylte høydepunktene. Sørg for at klippet samples og merges til rett under 60 sekunder (f.eks. 54-55 sekunder).
 * **Hvorfor:** Tapsfri trimming uten re-enkoding sparer maskinkrefter og bevarer den originale pixel-perfekte kvaliteten 100% på et blunk.
 
 #### 3. Visuell konvertering og formatering (Shotcut)
@@ -53,7 +53,7 @@ Many content creators waste hours fighting brittle terminal scripts, heavy re-en
 * **Tool:** Shotcut (Installed cleanly via Flatpak).
 * **Process:**
   * Open a project locked to a vertical **9:16** video mode (e.g., 1440x2560).
-  * Import your 59-second lossless highlight clip.
+  * Import your 54-55-second lossless highlight clip.
   * Use the visual **Crop / Position / Zoom** filters to drag the framing frame directly over the active zone, ensuring the character and combat log are dead-center.
   * Compile and export the optimized, "lightweight" `.mp4` file.
 * **Why:** **Visual confirmation is your safeguard.** You see exactly what goes into the frame before rendering. No 0-byte files, no terminal mishaps. YouTube Studio will never freeze up because the file is pre-optimized on your local rig.
