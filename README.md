@@ -23,7 +23,7 @@ Mange innholdsskapere kaster bort timer på å kjempe mot ustabile terminal-skri
 * **Verktøy:** Shotcut (Installert stabilt via Flatpak).
 * **Prosess:**
   * Opprett et prosjekt med et låst vertikalt format (**9:16**, f.eks. 1440x2560 eller tilsvarende).
-  * Dra inn det ferdige 59-sekunders høydepunktsklippet ditt.
+  * Dra inn det ferdige 54-55-sekunders høydepunktsklippet ditt.
   * Bruk de grafiske verktøyene for **Crop / Position / Zoom** til å flytte rammen live over skjermen til nøyaktig der magien skjer (slik at karakteren og kamp-loggen sitter bankers i sentrum).
   * Kompiler og eksporter ut den endelige, "lette" `.mp4`-filen.
 * **Hvorfor:** **Visuell bekreftelse er din fasit.** Du ser nøyaktig hva som havner på skjermen før du eksporterer. Ingen 0-byte filer, ingen mislykkede skript-fadeser. Nettleseren din vil aldri mer henge seg opp i YT Studio fordi filen er ferdig optimalisert lokalt.
@@ -46,7 +46,7 @@ Many content creators waste hours fighting brittle terminal scripts, heavy re-en
 
 #### 2. Surgical Selection (LosslessCut)
 * **Tool:** LosslessCut.
-* **Process:** Take the full mission video file, drop it into LosslessCut, and extract the precise highlights worth sharing. Ensure the final cut & merge sits tightly under the 60-second limit (ideally 59 seconds).
+* **Process:** Take the full mission video file, drop it into LosslessCut, and extract the precise highlights worth sharing. Ensure the final cut & merge sits tightly under the 60-second limit (ideally 54-55 seconds).
 * **Why:** Lossless trimming without re-encoding saves system resources and preserves 100% of the original pixel quality instantaneously.
 
 #### 3. Visual Conversion and Framing (Shotcut)
