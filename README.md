@@ -68,7 +68,7 @@ Many content creators waste hours fighting brittle terminal scripts, heavy re-en
 
 Below is the definitive layout of the Wils Method architecture, showcasing how wide raw streams effortlessly adapt to pristine vertical delivery:
 
-![Wils Way to YT Shorts Heaven](./Wils_Way_to_YT_Shorts_heaven.jpg)
+![Wils Way to YT Shorts Heaven](./Wils_Way_to_YT_Shorts_heaven.png)
 
 
 This is the way!
