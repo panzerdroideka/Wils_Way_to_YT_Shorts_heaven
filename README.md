@@ -1,3 +1,5 @@
+Sharing my love and passion for this, , is caring, not the income!
+
 # Wils Method - Efficient YouTube Shorts Production Workflow
 
 Welcome to the official repository documenting the **Wils Method**—an optimized, high-performance workflow designed for Linux enthusiasts and content creators who want to produce pristine 9:16 vertical YouTube Shorts from high-resolution 16:9 widescreen raw gameplay (e.g., 3200x1800) with absolute minimum effort and zero guesswork.
